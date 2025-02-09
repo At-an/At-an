@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Working with GitHub since 2022.<br>📚 I'm currently following a personal training to become a JavaScript Backend Dev .<br>🎯 Goal: Become a skilled Javascript Engineer by Jully 31st, 2025.<br>🎲 Fun fact: I like soccer and I am a Fan of Real De Madrid.</p>
+<p align="left">✨ Working with GitHub since August 2023.<br>📚 I'm currently following a personal training to become a JavaScript Backend Dev .<br>🎯 Goal: Become a skilled Javascript Engineer by Jully 31st, 2025.<br>🎲 Fun fact: I like soccer and I am a Fan of Real De Madrid.</p>
 
 ###
 
