@@ -2,19 +2,19 @@
 
 ###
 
-<h3 align="left">Hi, I am Atankeu Tchakoute Ange, a Software Engineering Student  at the University of Buea, Cameroon(CM).</h3>
+<h3 align="left">Hi, I am Atankeu Tchakoute Ange, a third (3rd) Year Software Engineering  Student at the University of Buea, Cameroon(CM).</h3>
 
 ###
 
-<h4 align="left">I am a software engineer that has experience in lots of programming languages like; C, C++, Java, Javascript and Python. Basically, I am not so experienced in those (Programming Languages) PL, but I have strong fundations in C and Python. <br>Evemnthough I am a software engineer that had had experience working on web based and mobile apps like;<br><br>-Building a CRUD-App using:  HTML, CSS, Javascript(JS), React.js and  Mongo_DB<br>-Developing a Real Time Chat App with:   Java,  JavaSwing.<br>-A weather App used to displlay weather informations( like; Temperature, Humidity, windspeed and much) of the varipus cities and towns of Cameroon. This  system was  implemented using HTML, CSS, Javascript and an API used to fetch data from the OpenWeatherMap.<br><br>Having worked on these projects made me become in some areas and acquire or even sharpen some skills like; <br>-Opened Communication<br>-Team Work<br>-Leadership(newly acquired skill)<br>-Accountability<br>-Good Analithical skills<br>-Critical thinking<br>Innovation and Creativity<br><br><br>Eventhough I have some experience on some software projects, I have strong passion for Artificial Intelligence(AI) and Machine Learning, and  I am 100% willing to work on some projects related to these topics.</h4>
+<h4 align="left">I am a software engineer that has experience in programming languages like; C, C++, Java, Javascript and Python. Basically, I am not so experienced in those (Programming Languages) PL, but I have strong fundations in C and Python. <br>Evemnthough I have some experience working on web based and mobile apps like;<br><br>-Building a CRUD-App using:  HTML, CSS, Javascript(JS), React.js and  Mongo_DB<br>-Developing a Real Time Chat App with:   Java,  JavaSwing.<br>-A weather App used to display weather informations( like; Temperature, Humidity, windspeed and much) of various cities and towns in Cameroon. This  system was  implemented using HTML, CSS, Javascript and an API used to fetch data from the OpenWeatherMap.<br><br>Having worked on these projects made me become more confident in some areas and acquire  skills like; <br>-Opened Communication<br>-Team Work<br>-Leadership(newly acquired skill)<br>-Accountability<br>-Good Analithical skills<br>-Critical thinking<br>Innovation and Creativity<br><br><br>Eventhough I have some experience on some software projects, I committed to continuous Professional Growth through Consistent Practice and so, I am open to any sort of Open-Source Project or Contribution .</h4>
 
 ###
 
-<p align="left">✨ Creating and resolving bugs since  2022.<br>📚 I'm currently learning  Machine Learning on Datacamp.<br>🎯 Goals: Become a Machine Learning Engineer by 2026.<br>🎲 Fun fact: I like soccer and I am a Fan of Real De Madrid.</p>
+<p align="left">✨ Creating  working with GitHub since  2022.<br>📚 I'm currently foollowing a personal training to become a JavaScript Backend Dev .<br>🎯 Goals: Become a skilled Javascript Engineer by Jully, 2025.<br>🎲 Fun fact: I like soccer and I am a Fan of Real De Madrid.</p>
 
 ###
 
-<h2 align="left">I code most often alone, but since I entered University, I code with friends and  classmates on school and personal based projects</h2>
+<h2 align="left">I coded rarely and alone alone, but since I entered University, I have fun coding with friends and classmates</h2>
 
 ###
 
