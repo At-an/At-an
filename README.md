@@ -6,15 +6,15 @@
 
 ###
 
-<h4 align="left">I am a software engineer that has experience in programming languages like; C, C++, Java, Javascript and Python. Basically, I am not so experienced in those (Programming Languages) PL, but I have strong fundations in C and Python. <br>Evemnthough I have some experience working on web based and mobile apps like;<br><br>-Building a CRUD-App using:  HTML, CSS, Javascript(JS), React.js and  Mongo_DB<br>-Developing a Real Time Chat App with:   Java,  JavaSwing.<br>-A weather App used to display weather informations( like; Temperature, Humidity, windspeed and much) of various cities and towns in Cameroon. This  system was  implemented using HTML, CSS, Javascript and an API used to fetch data from the OpenWeatherMap.<br><br>Having worked on these projects made me become more confident in some areas and acquire  skills like; <br>-Opened Communication<br>-Team Work<br>-Leadership(newly acquired skill)<br>-Accountability<br>-Good Analithical skills<br>-Critical thinking<br>Innovation and Creativity<br><br><br>Eventhough I have some experience on some software projects, I committed to continuous Professional Growth through Consistent Practice and so, I am open to any sort of Open-Source Project or Contribution .</h4>
+<h4 align="left">I am a software engineer that has experience in programming languages like; C, C++, Java, JavaScript and Python. Basically, I am not so experienced in those (Programming Languages) PL, but I have strong fundations in C and Python. <br>Eventhough I have some experience working on web based and mobile apps like;<br><br>-Building a CRUD-App using:  HTML, CSS, Javascript(JS), React.js and  Mongo_DB<br>-Developing a Real Time Chat App with:   Java,  JavaSwing.<br>-A weather App used to display weather informations( like; Temperature, Humidity, windspeed and much) of various cities and towns in Cameroon. This  system was  implemented using HTML, CSS, Javascript and an API used to fetch data from the OpenWeatherMap.<br><br>Having worked on these projects made me become more confident in some areas and acquire  skills like; <br>-Open Communication<br>-Team Work<br>-Leadership(Newly acquired skill)<br>-Accountability<br>-Good Analytical skills<br>-Critical Thinking<br>Innovation and Creativity<br><br><br>Eventhough I have some experience on some software projects, I am committed to continuous Professional Growth through Consistent Practice and so, I'm open to any sort of Open-Source Project or Contribution .</h4>
 
 ###
 
-<p align="left">✨ Creating  working with GitHub since  2022.<br>📚 I'm currently foollowing a personal training to become a JavaScript Backend Dev .<br>🎯 Goals: Become a skilled Javascript Engineer by Jully, 2025.<br>🎲 Fun fact: I like soccer and I am a Fan of Real De Madrid.</p>
+<p align="left">✨ Working with GitHub since 2022.<br>📚 I'm currently following a personal training to become a JavaScript Backend Dev .<br>🎯 Goal: Become a skilled Javascript Engineer by Jully 31st, 2025.<br>🎲 Fun fact: I like soccer and I am a Fan of Real De Madrid.</p>
 
 ###
 
-<h2 align="left">I coded rarely and alone alone, but since I entered University, I have fun coding with friends and classmates</h2>
+<h2 align="left">Back in High School, I coded rarely and alone, but since I entered University, I have fun coding with friends and classmates</h2>
 
 ###
 
